@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@somekindofdesign 
-Code-Institute-Solutions
-/
-love-running-2.0-sourcecode
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-love-running-2.0-sourcecode/03-creating-the-hero-image/02-hero-image-animation/assets/css/style.css
-@AJGreaves
-AJGreaves Add sourcecode for hero image animation lesson.
-Latest commit f46e69a on Jan 16, 2021
- History
- 1 contributor
-86 lines (69 sloc)  1.31 KB
-
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
 * {
